@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5fH1sgZXssU_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">module 3 baptist1h new brand</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6Fr16X31H6v" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/69dFlOLlJ9o" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/5lvktvAibc4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/5dvRcAG13ER" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/5iO9etlaNZW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/60GzgkmpaPd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What do we do once your food gets to the table?
+</name>
+			<description lang="und">What do we do once your food gets to the table?
+</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6VO1MC2Q0FX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6K5hP0kyaa0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6lygkV10Kuf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6lygkV10Kuf/5rmnQnZUgYr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">You are at a restaurant for a friends birthday. This restaurant celebrates birthdays with hot fudge chocolate cake, which you can’t wait for. But you're trying to stay on top of your healthy eating habits. When server first comes to your table and asks you whether you would like a drink or an appetizer, which would be the best choice?
+</name>
+			<description lang="und">You are at a restaurant for a friends birthday. This restaurant celebrates birthdays with hot fudge chocolate cake, which you can’t wait for. But you're trying to stay on top of your healthy eating habits. When server first comes to your table and asks you whether you would like a drink or an appetizer, which would be the best choice?
+</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6lB8FftDwop</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_61MuqNRSVYK</id>
+					<description lang="und">Have an appetizer as an entree, have a drink, and share cake.</description>
+				</component>
+				<component>
+					<id>choice_6fKQDqd5B2i</id>
+					<description lang="und">Have both a drink, an appetizer, and share cake after.</description>
+				</component>
+				<component>
+					<id>choice_6lB8FftDwop</id>
+					<description lang="und">You order an entree, put some food to-go before you eat, and share cake.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6EmtsOn1jYf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6EmtsOn1jYf/5iVZNUcXowv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">You go to a restaurant and would like to eat a chicken sandwich item that comes with french fries. This restaurant also offers complimentary bread. Which of the following is most concerning about this meal?
+
+</name>
+			<description lang="und">You go to a restaurant and would like to eat a chicken sandwich item that comes with french fries. This restaurant also offers complimentary bread. Which of the following is most concerning about this meal?
+
+</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6q1yNkCCcNV</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6OLD7l6p7ya</id>
+					<description lang="und">This meal appears to be high in fat.</description>
+				</component>
+				<component>
+					<id>choice_6LqVIuWDQMi</id>
+					<description lang="und">This meal appears to be high in protein.</description>
+				</component>
+				<component>
+					<id>choice_6q1yNkCCcNV</id>
+					<description lang="und">This meal appears to be high in carbohydrates.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6C07sEl1Ng3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/5uzu8GbBQVX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/5tI0NmYLx3M" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">MEDIA INTERACTION</name>
+			<description lang="und">MEDIA INTERACTION</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6BnN7zoEzlh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6qmrFeqSRjO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6nBqCJ1arJ0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">MEDIA INTERACTION</name>
+			<description lang="und">MEDIA INTERACTION</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6g4vybNHsAL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">MEDIA INTERACTION</name>
+			<description lang="und">MEDIA INTERACTION</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6DPS6nP5js5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6ilY0pckTlu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6qqwFL8o4um" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6RplLJyl42t" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5fH1sgZXssU_course_id/6KtJg5wxjOd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+	</activities>
+</tincan>
